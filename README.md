@@ -19,6 +19,7 @@ Proyek ini merupakan implementasi sederhana struktur data **linked list** di Jav
 
    ```bash
    javac *.java
+## 💡 Contoh Output
 
 Sekarang urutan ke : 0
 Siswa sekarang : Ican
